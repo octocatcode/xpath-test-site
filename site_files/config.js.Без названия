@@ -1,0 +1,5 @@
+window.MOSDOLG_CONFIG = {
+  sentryDsn: "http://4a1530683a29426ca2bff87e53323752:561d0ee865b748edb7a886266012d98e@sentry.md.gost-group.com/4"
+  environment: 'uat-77'
+};
+
